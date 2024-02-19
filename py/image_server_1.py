@@ -1,7 +1,7 @@
-# T81-558: Applications of Deep Neural Networks
-# Module 13: Advanced/Other Topics
-# Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/), McKelvey School of Engineering, [Washington University in St. Louis](https://engineering.wustl.edu/Programs/Pages/default.aspx)
-# For more information visit the [class website](https://sites.wustl.edu/jeffheaton/t81-558/).
+# Applications of Deep Neural Networks
+# Advanced/Other Topics
+# Instructor: [Estifanos Tilahun Mihret](https://www.researchgate.net/profile/Estifanos-Mihret), [Brainstorming Tech Materials.](https://www.youtube.com/@BrainstormingTechMaterials)
+# For more information visit [my GitHub projects](https://github.com/sci-tech-with-estif).
 # Deploy simple Keras tabular model with Flask only.
 from flask import Flask, request, jsonify
 import uuid
